@@ -143,7 +143,7 @@
     <value>GitHub üzerinden geri bildirim gönderin</value>
   </data>
   <data name="SubmitFeedback" xml:space="preserve">
-    <value>Geri bildirim sağlayın</value>
+    <value>Geri bildirim gönder</value>
   </data>
   <data name="ExitApplicationCommand.Label" xml:space="preserve">
     <value>Çıkış</value>
