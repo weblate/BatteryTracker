@@ -116,7 +116,7 @@
     <value>با ایمیل یه فیدبک بزن</value>
   </data>
   <data name="SettingsPage_GitHubIssuesLink.Content" xml:space="preserve">
-    <value>توی گیتهاب به عنوان Issue ثبتش کن</value>
+    <value>توی گیتهاب به عنوان مشکل ثبتش کن</value>
   </data>
   <data name="Settings_Feedback.Header" xml:space="preserve">
     <value>یه فیدبک بزن</value>
@@ -179,7 +179,7 @@
     <value>باتری ترکر خود به خود لانچ میشه</value>
   </data>
   <data name="Settings_RunAtStartUp.Header" xml:space="preserve">
-    <value>وقتی ویندوز  اومد اینم بیاد</value>
+    <value>وقتی ویندوز اومد اینم بیاد</value>
   </data>
   <data name="Settings_ThirdPartyLicense.Header" xml:space="preserve">
     <value>‬لایسنس های سوم شخص</value>
@@ -201,5 +201,17 @@
   </data>
   <data name="Settings_Help_Us_Translate.Content" xml:space="preserve">
     <value>کمکمون کن برنامه رو ترجمه کنیم!!</value>
+  </data>
+  <data name="Settings_PrivacyTerms.Header" xml:space="preserve">
+    <value>بیانیه حریم شخصی</value>
+  </data>
+  <data name="InstanceRunningMessage" xml:space="preserve">
+    <value>یکی دیگه از همین برنامه لانچ شده</value>
+  </data>
+  <data name="Settings_Appearance_Behavior.Header" xml:space="preserve">
+    <value>ریخت و قیافه و رفتار</value>
+  </data>
+  <data name="Settings_EnableHighPowerNotification.Header" xml:space="preserve">
+    <value>نوتیفیکیشن شارژ کافی فعال باشه</value>
   </data>
 </root>
