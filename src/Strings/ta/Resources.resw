@@ -59,13 +59,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AppDisplayName" xml:space="preserve">
-    <value>மின்கலம் கண்காணிப்பான்</value>
+    <value>மின்கலம் கண்காணி</value>
   </data>
   <data name="Settings_Personalization.Text" xml:space="preserve">
     <value>தனிப்பயனாக்கம்</value>
   </data>
   <data name="Settings_AboutDescription.Text" xml:space="preserve">
-    <value>பணிப்பட்டியில் மின்கலம் மீதமுள்ள சதவீதத்தைக் காட்டு</value>
+    <value>பணிப்பட்டியில் மின்கலம் மீதமுள்ள சதவீதம் காட்டு</value>
   </data>
   <data name="Settings_LanguageInfoBar.Message" xml:space="preserve">
     <value>மொழி மாற்றம் செயல்பட செயலியை மீண்டும் துவக்கு</value>
@@ -74,7 +74,7 @@
     <value>எதிர்பாராத பிழை ஏற்பட்டதால் செயலி இடைமுறிக்கிறது</value>
   </data>
   <data name="SettingsPage_EmailLink.Content" xml:space="preserve">
-    <value>மின்னஞ்சல் வழியாக பின்னூட்டம் அனுப்பு</value>
+    <value>மின்னஞ்சல் வழி பின்னூட்டம் அனுப்பு</value>
   </data>
   <data name="SettingsPage_GitHubIssuesLink.Content" xml:space="preserve">
     <value>கிட்கப் -ல் ஒரு சிக்கலை முன்வைக்கவும்</value>
@@ -98,16 +98,16 @@
     <value>பதிப்பு</value>
   </data>
   <data name="AppDescription" xml:space="preserve">
-    <value>பணிப்பட்டியில் மின்கலம் மீதமுள்ள சதவீதத்தைக் காட்டு</value>
+    <value>பணிப்பட்டியில் மின்கலம் மீதமுள்ள சதவீதம் காட்டு</value>
   </data>
   <data name="Settings_Theme.Text" xml:space="preserve">
     <value>கருப்பொருள்</value>
   </data>
   <data name="Settings_Theme_Light.Content" xml:space="preserve">
-    <value>ஒளி</value>
+    <value>வெளிர்</value>
   </data>
   <data name="Settings_Theme_Dark.Content" xml:space="preserve">
-    <value>அடர்த்தி</value>
+    <value>அடர்</value>
   </data>
   <data name="Settings_Theme_Default.Content" xml:space="preserve">
     <value>சாளரங்கள் இயல்புநிலை</value>
@@ -140,13 +140,13 @@
     <value>மீண்டும் துவக்கு</value>
   </data>
   <data name="FullyChargedMessage" xml:space="preserve">
-    <value>மின்கலம் மின்னேற்றம் முழுமையானது</value>
+    <value>மின்கலம் முழுமையாக மின்னேற்றப்பட்டது</value>
   </data>
   <data name="LowPowerMessage" xml:space="preserve">
     <value>ஆற்றல் குறைவு</value>
   </data>
   <data name="Settings_EnableHighPowerNotification.Header" xml:space="preserve">
-    <value>போதிய மின்ஆற்றல் அறிவிப்பை இயக்கவும்</value>
+    <value>போதிய ஆற்றல் அறிவிப்பை இயக்கு</value>
   </data>
   <data name="InstanceRunningMessage" xml:space="preserve">
     <value>மற்றொரு நிகழ்வு ஏற்கனவே இயக்கத்தில் உள்ளது</value>
@@ -209,7 +209,7 @@
     <value>கணினி இயல்புநிலை</value>
   </data>
   <data name="Settings_Help_Us_Translate.Content" xml:space="preserve">
-    <value>மின்கலம் கண்காணிப்பான் ஐ மொழிபெயர்க்க எங்களுக்கு உதவுங்கள்!</value>
+    <value>மின்கலம் கண்காணி ஐ மொழிபெயர்க்க எங்களுக்கு உதவுங்கள்!</value>
   </data>
   <data name="Settings_Help_Support.Header" xml:space="preserve">
     <value>உதவி &amp; ஆதரவு</value>
